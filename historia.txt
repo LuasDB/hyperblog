@@ -2,8 +2,5 @@ Este es un primer archivo es mi historia
 
 Saul tiene 31 años y vivio en México, y tiene una hermosa novia que ama mucho
 
-Le gusta aprender 
-
-Ya iniciamos con el html esto se escribio despues 
-
-Ultima linea despues de haber echo un commit 
+Le gusta aprender programacion !!!!!
+Mañana nos enfocaremos en otra cosa 
