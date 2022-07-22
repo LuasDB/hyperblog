@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card{
+    width: 10rem;
+    background-color: aliceblue;
+
+}
